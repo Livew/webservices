@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.username\=Sonar\r\nsonar.jdbc.driver\=org.postgresql.Driver\r\nsonar.host.url\=http\://localhost\:9000\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.url\=jdbc\:postgresql\://localhost/sonar
+projectKey=HotelBooking\:HotelBooking
+serverUrl=http\://localhost\:9000
+version=2
