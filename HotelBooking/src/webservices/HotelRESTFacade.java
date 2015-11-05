@@ -21,7 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
  *
  * @author ANMAGALH
  */
-@Path("webservices.hotel")
+@Path("services.hotel")
 @com.sun.jersey.spi.resource.Singleton
 //@com.sun.jersey.api.spring.Autowire
 public class HotelRESTFacade {

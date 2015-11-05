@@ -21,8 +21,9 @@ import org.springframework.transaction.annotation.Transactional;
  *
  * @author ANMAGALH
  */
-@Path("webservices.room")
+@Path("services.room")
 @com.sun.jersey.spi.resource.Singleton
+
 //@com.sun.jersey.api.spring.Autowire
 public class RoomRESTFacade {
     @PersistenceContext(unitName = "HotelBookingPU")

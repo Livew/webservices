@@ -21,7 +21,7 @@ package webservices;
 	 *
 	 * @author ANMAGALH
 	 */
-	@Path("webservices.booking")
+	@Path("services.booking")
 	@com.sun.jersey.spi.resource.Singleton
 
 	public class BookingRESTFacade {
